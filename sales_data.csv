@@ -1,0 +1,11 @@
+order_id,product,category,units_sold,unit_price,region
+1001,Mouse,Electronics,3,799,North
+1002,Notebook,Stationery,10,60,East
+1003,Desk Lamp,Home,2,1299,South
+1004,Keyboard,Electronics,2,1499,West
+1005,Pen Set,Stationery,8,120,North
+1006,Water Bottle,Home,4,399,East
+1007,Mouse,Electronics,5,799,South
+1008,Notebook,Stationery,12,60,West
+1009,Desk Lamp,Home,1,1299,North
+1010,Keyboard,Electronics,3,1499,East
